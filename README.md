@@ -1,2 +1,2 @@
 # github-actions-lab
-Ovaj projekat koristi Github actions
+Ovaj projekat koristi Github  actions
