@@ -4,9 +4,9 @@
   "description": "Ovaj projekat koristi Github actions",
   "main": "index.js",
   "scripts": {
-  "test": "jest",
-  "lint": "eslint src/**"
-},
+    "test": "jest",
+    "lint": "eslint src/**"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/armincoralic10/github-actions-lab.git"
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/armincoralic10/github-actions-lab/issues"
   },
-  "homepage": "https://github.com/armincoralic10/github-actions-lab#readme"
+  "homepage": "https://github.com/armincoralic10/github-actions-lab#readme",
+  "devDependencies": {
+    "eslint": "^10.4.0",
+    "jest": "^30.4.2"
+  }
 }
